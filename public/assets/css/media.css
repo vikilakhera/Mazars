@@ -1,0 +1,42 @@
+@media (max-width: 767px) {
+  .header {
+    padding: 5px;
+  }
+  .header h5 {
+    font-size: 14px;
+  }
+  .menu li {
+    font-size: 10px;
+  }
+  .menu {
+    margin: 0;
+  }
+  .logo {
+    width: 50% !important;
+  }
+  .mw {
+    width: 50%;
+  }
+  .content {
+    width: 100% !important;
+  }
+  .content h1 {
+    font-size: 24px;
+  }
+  .form {
+    width: 100% !important;
+    padding: 15px;
+    margin-bottom: 25%;
+  }
+  .form h2 {
+    font-size: 24px;
+  }
+  footer {
+    position: fixed;
+  }
+  .otp {
+    width: 100% !important;
+  }
+}
+@media screen and (min-width: 768px) and (max-width: 992px) {
+}
